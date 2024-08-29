@@ -1,0 +1,15 @@
+nomes = ['Bernardo', 'Eliane', 'isis', 'Lis', 'Sueli', 'Nete', 'Sebastião', 'Ester', 'Daniel', 'Estêvão']
+#mostre apenas o primeiro elemento da lista
+print("primeiro elemento:",nomes[0])
+
+#mostre apenas o 5° elemento da lista
+print("quinto elemento:", nomes[4])
+
+#mostre somente o 2° e 3° elemento da lista
+print("2° e 3° elemento:", nomes[1:3])
+
+#mostre os 6 primeiros elementos da lista
+print("6 elementos:", nomes [:6])
+
+#mostre os 3 ultimos elementos da lista
+print("3 ultimos elementos:", nomes[-3:])
